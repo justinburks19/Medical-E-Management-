@@ -1,2 +1,1 @@
-# Medical-E-Management-
- Tool manager for Health Care system
+# Java_E-Managment 
